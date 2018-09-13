@@ -6,6 +6,6 @@
     <link rel="stylesheet" type="text/css" href="../statics/css/test.css"/>
 </head>
 <body>
-<p>Spring MVC based on XML config success111!</p>
+<p>Spring MVC based on XML config success!</p>
 </body>
 </html>

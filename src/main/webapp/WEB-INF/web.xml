@@ -29,6 +29,10 @@
             <param-name>contextConfigLocation</param-name>
             <param-value> classpath:spring/applicationContext.xml</param-value>
         </init-param>
+        <init-param>
+            <param-name>dispatcherConfigLocation</param-name>
+            <param-value>classpath:spring/dispatcher-servlet.xml</param-value>
+        </init-param>
         <load-on-startup>1</load-on-startup>
     </servlet>
     <!-- 将前端URL请求和后台处理方法controller建立对应关系-->
